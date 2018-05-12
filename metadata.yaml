@@ -1,0 +1,35 @@
+_repo: The-Sherrods_35335
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Williams, C. D. (Charles D.)
+    alias: Williams, Charles D.
+    birthdate: 1875
+    deathdate: 1954
+    gutenberg_agent_id: '24824'
+    url: http://www.gutenberg.org/2009/agents/24824
+covers:
+- cover_type: archival
+  image_path: 35335-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: McCutcheon, George Barr
+    birthdate: 1866
+    deathdate: 1928
+    gutenberg_agent_id: '1555'
+    url: http://www.gutenberg.org/2009/agents/1555
+    wikipedia: http://en.wikipedia.org/wiki/George_Barr_McCutcheon
+description: ''
+gutenberg_issued: '2011-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35335'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bigamy -- Fiction'
+- !lcc 'PS'
+title: The Sherrods
+url: http://www.gutenberg.org/ebooks/35335
